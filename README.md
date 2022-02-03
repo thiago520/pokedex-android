@@ -1,6 +1,7 @@
 <h3 align="center">App de exemplo para estudos de Kotlin</h3>
 
-![Screenshot](imgTela.png)
+<img align="center" src="https://github.com/thiago520/pokedex-android/blob/main/imgTela.jpg" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
